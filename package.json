@@ -1,0 +1,24 @@
+{
+  "name": "qiniu-upload-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "qiniu": "index.js"
+  },
+  "keywords": [
+    "七牛",
+    "上传文件",
+    "命令行工具"
+  ],
+  "author": "chenzedong <625402731@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.2",
+    "debug": "^4.1.1",
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15",
+    "ora": "^4.0.1",
+    "qiniu": "^7.2.2"
+  }
+}
