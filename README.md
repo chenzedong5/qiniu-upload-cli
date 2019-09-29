@@ -1,6 +1,6 @@
 ## qiniu-upload-cli 七牛文件上传的命令行工具
 
-`nom install qiniu-upload-cli -g`
+`npm install qiniu-upload-cli -g`
 
 ### Api
 

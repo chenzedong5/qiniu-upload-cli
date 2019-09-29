@@ -1,1 +1,3 @@
- require("./lib/command")
+#! /usr/bin/env node
+
+require("./lib/command")

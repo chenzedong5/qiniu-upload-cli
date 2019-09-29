@@ -20,5 +20,10 @@
     "lodash": "^4.17.15",
     "ora": "^4.0.1",
     "qiniu": "^7.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzedong5/qiniu-cli.git"
+  },
+  "homepage": "https://github.com/chenzedong5/qiniu-cli#readme"
 }
