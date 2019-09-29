@@ -1,7 +1,7 @@
 {
   "name": "qiniu-upload-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "七牛文件上传",
   "bin": {
     "qiniu": "index.js"
   },
